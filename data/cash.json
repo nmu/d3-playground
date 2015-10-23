@@ -1,0 +1,167 @@
+[
+    {
+        date: '2012-01-01'
+    },
+    {
+        date: '2012-02-01'
+    },
+    {
+        date: '2012-03-01'
+    },
+    {
+        date: '2012-04-01'
+    },
+    {
+        date: '2012-05-01'
+    },
+    {
+        date: '2012-06-01'
+    },
+    {
+        date: '2012-07-01'
+    },
+    {
+        date: '2012-08-01'
+    },
+    {
+        date: '2012-09-01'
+    },
+    {
+        date: '2012-10-01'
+    },
+    {
+        date: '2012-11-01'
+    },
+    {
+        date: '2012-12-01'
+    },
+    {
+        date: '2013-01-01'
+    },
+    {
+        date: '2013-02-01'
+    },
+    {
+        date: '2013-03-01'
+    },
+    {
+        date: '2013-04-01'
+    },
+    {
+        date: '2013-05-01'
+    },
+    {
+        date: '2013-06-01'
+    },
+    {
+        date: '2013-07-01'
+    },
+    {
+        date: '2013-08-01'
+    },
+    {
+        date: '2013-09-01'
+    },
+    {
+        date: '2013-10-01'
+    },
+    {
+        date: '2013-11-01'
+    },
+    {
+        date: '2013-12-01'
+    },
+    {
+        date: '2014-01-01'
+    },
+    {
+        date: '2014-02-01'
+    },
+    {
+        date: '2014-03-01'
+    },
+    {
+        date: '2014-04-01'
+    },
+    {
+        date: '2014-05-01'
+    },
+    {
+        date: '2014-06-01'
+    },
+    {
+        date: '2014-07-01'
+    },
+    {
+        date: '2014-08-01'
+    },
+    {
+        date: '2014-09-01'
+    },
+    {
+        date: '2014-10-01'
+    },
+    {
+        date: '2014-11-01'
+    },
+    {
+        date: '2014-12-01'
+    },
+    {
+        date: '2015-01-01',
+        syrian: '21022',
+        syrianWaitlist: '12011',
+        iraqi: '1961',
+        otherNatCases: '247',
+        nonSyrianWaitlist: '2171',
+        syrianWinterizeOnce: 2070
+    },
+    {
+        date: '2015-02-01',
+        syrian: '20349',
+        syrianWaitlist: '15928',
+        iraqi: '1929',
+        otherNatCases: '276',
+        nonSyrianWaitlist: '2125'
+    },
+    {
+        date: '2015-03-01',
+        syrian: '21499',
+        syrianWaitlist: '11642',
+        iraqi: '1920',
+        otherNatCases: '280',
+        nonSyrianWaitlist: '952'
+    },
+    {
+        date: '2015-04-01',
+        syrian: '22000',
+        syrianWaitlist: '3196',
+        iraqi: '2127',
+        otherNatCases: '273',
+        nonSyrianWaitlist: '647'
+    },
+    {
+        date: '2015-05-01',
+        syrian: '22000',
+        syrianWaitlist: '3196',
+        iraqi: '2127',
+        otherNatCases: '273',
+        nonSyrianWaitlist: '647'
+    },
+    {
+        date: '2015-06-01',
+        syrian: '22500',
+        syrianWaitlist: '9753',
+        iraqi: '2107',
+        otherNatCases: '293',
+        nonSyrianWaitlist: '248'
+    },
+    {
+        date: '2015-07-01',
+        syrian: '22514',
+        syrianWaitlist: '9753',
+        iraqi: '2108',
+        otherNatCases: '292',
+        nonSyrianWaitlist: '248'
+    }
+]
